@@ -22,14 +22,17 @@ namespace ModulosSorceTree
         Operación operacion = Operaciones.Multiplicar;
         private void button1_Click(object sender, EventArgs e)
         {
-            Sumar sum = new Sumar();
-            if (radioButton1.Checked)
-                MessageBox.Show("El resultado es: " + sum.sumar((double)nudPrimero.Value, (double)nupSegundo.Value).ToString());
-        }
+		double a, b,c;
+		a= (double)nudprimero.value;
+		b= (double)(nupsegundo.value);
+c=	operacion(a,b);
+
+           
+ }
 
         private void radioButton4_CheckedChanged(object sender, EventArgs e)
         {
-            Operación operacion = Operaciones.Multiplicar;
+             operacion = Operaciones.Multiplicar;
         }
     }
 }
