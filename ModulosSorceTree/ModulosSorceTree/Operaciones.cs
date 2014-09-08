@@ -13,12 +13,11 @@ namespace ModulosSorceTree
         {
             return a * b;
         }
+        public static double Restar(double a, double b)
+        {
+            return (a - b);
+        }
         /*public static double Sumar(double a, double b)
-         {
-           
-         }
-         * 
-         * public static double Restar(double a, double b)
          {
            
          }
