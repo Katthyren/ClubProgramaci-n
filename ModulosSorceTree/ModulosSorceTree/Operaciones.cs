@@ -30,6 +30,7 @@ namespace ModulosSorceTree
 	public static double Exponenciar(double a, double b)
         {
 	         return  math.Pow(a,b);
+		//tu nana en tangas
         }                  
     }
 }
