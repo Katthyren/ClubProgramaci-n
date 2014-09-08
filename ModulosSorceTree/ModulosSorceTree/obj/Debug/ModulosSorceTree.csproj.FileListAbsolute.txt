@@ -24,3 +24,6 @@ D:\Escuela\Repositorio\ModulosSorceTree\ModulosSorceTree\bin\Debug\ModulosSorceT
 D:\Escuela\Repositorio\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.exe
 D:\Escuela\Repositorio\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.pdb
 >>>>>>> 744127dbab62e711e8b26277c9c4908eacb85c0f
+C:\Users\Eloy\Documents\ASourceTree\qw\ModulosSorceTree\ModulosSorceTree\bin\Debug\ModulosSorceTree.exe.config
+C:\Users\Eloy\Documents\ASourceTree\qw\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.exe
+C:\Users\Eloy\Documents\ASourceTree\qw\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.pdb

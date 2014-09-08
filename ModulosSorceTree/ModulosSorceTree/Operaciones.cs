@@ -21,11 +21,14 @@ namespace ModulosSorceTree
          {
            
          }
-         * public static double Dividir(double a, double b)
+         */ public static double Dividir(double a, double b)
         {
-           
+            if (b != 0)
+                return (a / b);
+            else
+                return 0.000;
         }
-         */ 
+          
 	public static double Exponenciar(double a, double b)
         {
 	         return  math.Pow(a,b);
