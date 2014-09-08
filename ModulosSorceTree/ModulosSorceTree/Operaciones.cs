@@ -17,18 +17,16 @@ namespace ModulosSorceTree
         {
             return (a - b);
         }
-        /*public static double Sumar(double a, double b)
-         {
-           
-         }
-         * public static double Dividir(double a, double b)
+        public double sumar(double a, double b)
+        { return a + b; }
+         /* public static double Dividir(double a, double b)
         {
            
         }
          */ 
 	public static double Exponenciar(double a, double b)
         {
-	         return  math.Pow(a,b);
+	         return  Math.Pow(a,b);
 		//tu nana en tangas
         }                  
     }
