@@ -19,38 +19,39 @@ namespace ModulosSorceTree
             InitializeComponent();
         }
    
-        Operación operacion = Operaciones.sumar;
+        Operación operacion = Operaciones.Sumar;
         private void button1_Click(object sender, EventArgs e)
         {
             double a, b, c;
             a = (double)nudPrimero.Value;
             b = (double)nupSegundo.Value;
             c = operacion(a, b);
+            MessageBox.Show(c.ToString());
         }
 
         private void radioButton4_CheckedChanged(object sender, EventArgs e)
         {
-            Operación operacion = Operaciones.Multiplicar;
+             operacion = Operaciones.Multiplicar;
         }
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
-            Operación operacion = Operaciones.Restar;
+             operacion = Operaciones.Restar;
         }
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
-            Operación operacion = Operaciones.sumar;
+             operacion = Operaciones.Sumar;
         }
 
         private void radioButton3_CheckedChanged(object sender, EventArgs e)
         {
-            Operación operacion = Operaciones.Dividir;
+             operacion = Operaciones.Dividir;
         }
 
         private void radioButton5_CheckedChanged(object sender, EventArgs e)
         {
-            Operación operacion = Operaciones.Exponenciar;
+             operacion = Operaciones.Exponenciar;
         }
     }
 }
