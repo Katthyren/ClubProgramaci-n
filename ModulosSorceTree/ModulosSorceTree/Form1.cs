@@ -26,7 +26,11 @@ namespace ModulosSorceTree
             a = (double)nudPrimero.Value;
             b = (double)nupSegundo.Value;
             c = operacion(a, b);
+<<<<<<< HEAD
             MessageBox.Show("El resultado es: " + c.ToString(), "Resultado");
+=======
+            MessageBox.Show(c.ToString());
+>>>>>>> 178c28aa407c6793822fa42402b150ff4795b636
         }
 
         private void radioButton4_CheckedChanged(object sender, EventArgs e)

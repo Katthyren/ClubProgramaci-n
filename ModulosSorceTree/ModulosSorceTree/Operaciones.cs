@@ -32,6 +32,11 @@ namespace ModulosSorceTree
         {
             return Math.Pow(a,b);
         }
+<<<<<<< HEAD
+=======
+
+        
+>>>>>>> 178c28aa407c6793822fa42402b150ff4795b636
     }
 }
 
