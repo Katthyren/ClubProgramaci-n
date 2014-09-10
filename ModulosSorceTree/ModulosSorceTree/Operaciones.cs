@@ -8,7 +8,7 @@ namespace ModulosSorceTree
 {
     static class Operaciones
     {
-//cambio
+//cambi
         public static double Multiplicar(double a, double b)
         {
             return a * b;
