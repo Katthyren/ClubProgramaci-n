@@ -32,26 +32,31 @@ namespace ModulosSorceTree
         private void radioButton4_CheckedChanged(object sender, EventArgs e)
         {
              operacion = Operaciones.Multiplicar;
+             label1.Text = "×";
         }
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
              operacion = Operaciones.Restar;
+             label1.Text = "-";
         }
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
              operacion = Operaciones.Sumar;
+             label1.Text = "+";
         }
 
         private void radioButton3_CheckedChanged(object sender, EventArgs e)
         {
              operacion = Operaciones.Dividir;
+             label1.Text = "÷";
         }
 
         private void radioButton5_CheckedChanged(object sender, EventArgs e)
         {
              operacion = Operaciones.Exponenciar;
+             label1.Text = "^";
         }
     }
 }
