@@ -39,3 +39,4 @@ C:\Users\Katthyren\Documents\ClubProgramaci-n\ModulosSorceTree\ModulosSorceTree\
 C:\Users\Katthyren\Documents\ClubProgramacion\ModulosSorceTree\ModulosSorceTree\bin\Debug\ModulosSorceTree.exe.config
 C:\Users\Katthyren\Documents\ClubProgramacion\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.exe
 C:\Users\Katthyren\Documents\ClubProgramacion\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.pdb
+D:\Escuela\Repositorio\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.Form2.resources
