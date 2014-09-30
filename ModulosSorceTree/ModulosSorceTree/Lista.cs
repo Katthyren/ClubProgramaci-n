@@ -94,11 +94,6 @@ namespace ModulosSorceTree
             {
                 Gr.Clear(Color.White);
                 Pen z = new Pen(Color.Black, 0.5f);
-                for (int x = 0; x < 200; x = x + 10)
-                {
-                    Gr.DrawLine(z, new Point(x, 0), new Point(x, 200));
-                    Gr.DrawLine(z, new Point(0, x), new Point(200, x));
-                }
                 int k = 0;
                 Nodo p = inicio;
                 while (p != null)
