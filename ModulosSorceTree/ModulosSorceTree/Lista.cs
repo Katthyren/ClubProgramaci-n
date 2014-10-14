@@ -94,15 +94,14 @@ namespace ModulosSorceTree
             {
                 Gr.Clear(Color.White);
                 Pen z = new Pen(Color.Black, 0.5f);
-                int k = 0;
                 Nodo p = inicio;
                 while (p != null)
                 {
-                    if (k % 2 == 0)
-                        Gr.FillRectangle(Brushes.Black, new Rectangle(N.x, N.y, 10, 10));
+                    Gr.FillEllipse(Brushes.Brown, new Rectangle(N.x, N.y+1, 5, 8));
+                    if (p == inicio)
+                        Gr.FillEllipse(Brushes.Purple, new Rectangle(p.x, p.y, 10, 10));
                     else
-                        Gr.FillRectangle(Brushes.Green, new Rectangle(N.x, N.y, 10, 10));
-                    Gr.FillRectangle(Brushes.Black, new Rectangle(p.x, p.y, 10, 10));
+                        Gr.FillEllipse(Brushes.Green, new Rectangle(p.x, p.y, 10, 10));
                     p = p.liga;
                 }
             }
