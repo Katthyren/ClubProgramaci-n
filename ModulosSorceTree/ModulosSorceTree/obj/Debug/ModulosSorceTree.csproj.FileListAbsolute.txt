@@ -54,3 +54,13 @@ C:\Users\Eloy\Documents\aClubProgramaci-n\ModulosSorceTree\ModulosSorceTree\obj\
 C:\Users\Katthyren\Documents\ClubPrograRepo\ModulosSorceTree\ModulosSorceTree\bin\Debug\ModulosSorceTree.exe.config
 C:\Users\Katthyren\Documents\ClubPrograRepo\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.exe
 C:\Users\Katthyren\Documents\ClubPrograRepo\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.pdb
+C:\Users\Daniel\Documents\TallerProgramaRepo\ModulosSorceTree\ModulosSorceTree\bin\Debug\ModulosSorceTree.exe.config
+C:\Users\Daniel\Documents\TallerProgramaRepo\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.exe
+C:\Users\Daniel\Documents\TallerProgramaRepo\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.pdb
+C:\Users\Daniel\Documents\TallerProgramaRepo\ModulosSorceTree\ModulosSorceTree\bin\Debug\ModulosSorceTree.exe
+C:\Users\Daniel\Documents\TallerProgramaRepo\ModulosSorceTree\ModulosSorceTree\bin\Debug\ModulosSorceTree.pdb
+C:\Users\Daniel\Documents\TallerProgramaRepo\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\TallerProgramaRepo\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.Form1.resources
+C:\Users\Daniel\Documents\TallerProgramaRepo\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.Form2.resources
+C:\Users\Daniel\Documents\TallerProgramaRepo\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.Properties.Resources.resources
+C:\Users\Daniel\Documents\TallerProgramaRepo\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.csproj.GenerateResource.Cache
