@@ -40,8 +40,11 @@ C:\Users\Katthyren\Documents\ClubProgramacion\ModulosSorceTree\ModulosSorceTree\
 C:\Users\Katthyren\Documents\ClubProgramacion\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.exe
 C:\Users\Katthyren\Documents\ClubProgramacion\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.pdb
 <<<<<<< HEAD
+<<<<<<< HEAD
 D:\Escuela\Repositorio\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.Form2.resources
 =======
+=======
+>>>>>>> 4ebc3b9e6263fb1513a3a2825b5e549b191e7a52
 C:\Users\Eloy\Documents\aClubProgramaci-n\ModulosSorceTree\ModulosSorceTree\bin\Debug\ModulosSorceTree.exe.config
 C:\Users\Eloy\Documents\aClubProgramaci-n\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.exe
 C:\Users\Eloy\Documents\aClubProgramaci-n\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.pdb
@@ -51,4 +54,10 @@ C:\Users\Eloy\Documents\aClubProgramaci-n\ModulosSorceTree\ModulosSorceTree\obj\
 C:\Users\Eloy\Documents\aClubProgramaci-n\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.Form1.resources
 C:\Users\Eloy\Documents\aClubProgramaci-n\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.Properties.Resources.resources
 C:\Users\Eloy\Documents\aClubProgramaci-n\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.csproj.GenerateResource.Cache
+<<<<<<< HEAD
 >>>>>>> 8a7587737891541a5e7fb73edf101879101a7e75
+=======
+D:\Escuela\Repositorio\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.Form2.resources
+>>>>>>> 1388243f707e93873e997733f73147651f1c665d
+C:\Users\Eloy\Documents\aClubProgramaci-n\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.Form2.resources
+>>>>>>> 4ebc3b9e6263fb1513a3a2825b5e549b191e7a52
