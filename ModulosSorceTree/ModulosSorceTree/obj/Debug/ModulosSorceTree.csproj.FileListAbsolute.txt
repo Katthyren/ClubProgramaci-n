@@ -48,3 +48,6 @@ C:\Users\Eloy\Documents\aClubProgramaci-n\ModulosSorceTree\ModulosSorceTree\obj\
 C:\Users\Eloy\Documents\aClubProgramaci-n\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.Form1.resources
 C:\Users\Eloy\Documents\aClubProgramaci-n\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.Properties.Resources.resources
 C:\Users\Eloy\Documents\aClubProgramaci-n\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.csproj.GenerateResource.Cache
+D:\Escuela\Repositorio\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.Form2.resources
+>>>>>>> 1388243f707e93873e997733f73147651f1c665d
+C:\Users\Eloy\Documents\aClubProgramaci-n\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.Form2.resources
