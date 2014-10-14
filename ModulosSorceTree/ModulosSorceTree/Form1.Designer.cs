@@ -38,7 +38,11 @@
             this.button1 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
+<<<<<<< HEAD
             this.textBox1 = new System.Windows.Forms.TextBox();
+=======
+            this.radioButton6 = new System.Windows.Forms.RadioButton();
+>>>>>>> 9da265d6c40bb7a02d84faa8e39aa9294d3ef921
             ((System.ComponentModel.ISupportInitialize)(this.nudPrimero)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nupSegundo)).BeginInit();
             this.SuspendLayout();
@@ -153,12 +157,25 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
+<<<<<<< HEAD
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(138, 145);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 9;
+=======
+            // radioButton6
+            // 
+            this.radioButton6.AutoSize = true;
+            this.radioButton6.Location = new System.Drawing.Point(162, 168);
+            this.radioButton6.Name = "radioButton6";
+            this.radioButton6.Size = new System.Drawing.Size(53, 17);
+            this.radioButton6.TabIndex = 9;
+            this.radioButton6.TabStop = true;
+            this.radioButton6.Text = "Karen";
+            this.radioButton6.UseVisualStyleBackColor = true;
+>>>>>>> 9da265d6c40bb7a02d84faa8e39aa9294d3ef921
             // 
             // Form1
             // 
@@ -166,7 +183,11 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(284, 261);
+<<<<<<< HEAD
             this.Controls.Add(this.textBox1);
+=======
+            this.Controls.Add(this.radioButton6);
+>>>>>>> 9da265d6c40bb7a02d84faa8e39aa9294d3ef921
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
@@ -203,7 +224,11 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button2;
+<<<<<<< HEAD
         private System.Windows.Forms.TextBox textBox1;
+=======
+        private System.Windows.Forms.RadioButton radioButton6;
+>>>>>>> 9da265d6c40bb7a02d84faa8e39aa9294d3ef921
     }
 }
 

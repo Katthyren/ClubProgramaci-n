@@ -51,3 +51,6 @@ C:\Users\Eloy\Documents\aClubProgramaci-n\ModulosSorceTree\ModulosSorceTree\obj\
 D:\Escuela\Repositorio\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.Form2.resources
 >>>>>>> 1388243f707e93873e997733f73147651f1c665d
 C:\Users\Eloy\Documents\aClubProgramaci-n\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.Form2.resources
+C:\Users\Katthyren\Documents\ClubPrograRepo\ModulosSorceTree\ModulosSorceTree\bin\Debug\ModulosSorceTree.exe.config
+C:\Users\Katthyren\Documents\ClubPrograRepo\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.exe
+C:\Users\Katthyren\Documents\ClubPrograRepo\ModulosSorceTree\ModulosSorceTree\obj\Debug\ModulosSorceTree.pdb
