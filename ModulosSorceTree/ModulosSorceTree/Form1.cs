@@ -58,5 +58,16 @@ namespace ModulosSorceTree
              operacion = Operaciones.Exponenciar;
              label1.Text = "^";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form2 f2 = new Form2();
+            f2.ShowDialog();
+        }
+
+        private void nudPrimero_KeyDown(object sender, KeyEventArgs e)
+        {
+
+        }
     }
 }
